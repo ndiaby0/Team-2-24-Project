@@ -1,0 +1,33 @@
+img {
+    height: 200px;
+}
+
+.images {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 5px;
+
+}
+
+html {
+    background: url("https://wallpaperaccess.com/full/439751.jpg");
+}
+
+.images {
+    border: dashed #BA55D3;
+}
+
+.nav {
+    border: 5px solid #8B008B;
+    text-align: center;
+    font-family: 'Syne Mono', monospace;
+}
+
+.quote {
+    padding: 20px;
+}
+
+.bff {
+    font-size: 25px;
+}
